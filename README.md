@@ -22,5 +22,9 @@ share lay tex 사용
 
 --- 
 dataset : stanford dog dataset
-:
 
+---
+environment
+1. opencv 3.4.3.18??
+2. tensorflow ??
+3. python 3.5
