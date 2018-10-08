@@ -1,0 +1,10 @@
+# global 
+
+# IDEA config files
+.idea/
+
+# dataset
+/data
+
+# save
+/save
